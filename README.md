@@ -14,8 +14,8 @@ Queridos estudiantes bienvenidos al taller de Iniciativa Científica, esperó qu
 
 - [Anuncios](announcements.md),
 - a [Cronograma del curso](calendar.md),
-- a [equipo](staff.md) page,
-- and a weekly [programa](schedule.md).
+- a [equipo](staff.md),
+- y el [programa](schedule.md) semanal.
 
 ## Descripción
 
