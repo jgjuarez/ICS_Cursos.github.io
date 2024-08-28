@@ -8,16 +8,18 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# Programa de Iniciativa Científica
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Queridos estudiantes bienvenidos al taller de Iniciativa Científica, esperó que tengamos un excelente semestre y que logren aprender mucho durante nuestras reuniones. En este documento encontrarán toda la información que podrían necesitar durante el semestre, desde la descripción del taller, el cronograma de actividades, materiales a usar y las políticas de comportamiento. Cualquier duda o pregunta por favor mandarme un correo a jjuarez@icsnicaragua.org 
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+- [Anuncios](announcements.md),
+- a [Cronograma del curso](calendar.md),
+- a [equipo](staff.md) page,
+- and a weekly [programa](schedule.md).
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## Descripción
+
+El taller de Iniciativa Científica del Instituto de Ciensas Sostenibles esta dirigido a los profesionales de la Salud Pública. Este taller tiene como objetivo motivar el pensamiento científico de los participantes y poder generar un grupo cohesivo de colaboración multidisciplinario. Al finalizar el taller los participantes deberían poder generar un nuevo proyecto de investigación, revición y edición de artículos científicos, identifiación de journals adecuados para publicación, busqueda de literatura eficiente y mejorar las habilidades de presentación en público.
 
 - automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
 - instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
